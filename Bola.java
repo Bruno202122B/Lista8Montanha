@@ -20,10 +20,10 @@ public class Bola {
         minhaBola.circunferencia = 10.0;
         minhaBola.material = "Borracha";
         
-        minhaBola.mostraCor(); // Deve exibir "A cor da bola é Vermelha"
+        minhaBola.mostraCor(); 
         
         minhaBola.trocaCor("Azul");
         
-        minhaBola.mostraCor(); // Deve exibir "A cor da bola é Azul"
+        minhaBola.mostraCor(); 
     }
 }
